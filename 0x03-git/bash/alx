@@ -1,6 +1,2 @@
 #!/bin/bash
-
-echo "ALX School"
-=======
-echo "ALX School is so cool!"
->>>>>>> 52fed2d051a444aef8a807e914d50aed2ef74f4b
+echo "ALX"
